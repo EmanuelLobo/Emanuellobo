@@ -17,3 +17,6 @@
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emanuel.adventure/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-felipe-40542a235/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/piratalobo/about)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/63992329304?text=Ol%C3%A1%2C%20Emanuel!%20Espero%20que%20esteja%20tudo%20bem%20contigo.%20Voc%C3%AA%20est%C3%A1%20dispon%C3%ADvel%20para%20conversar%3F)
