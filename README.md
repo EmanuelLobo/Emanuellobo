@@ -1,40 +1,39 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-gif-link-here.gif" alt="animated background lofi" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/your-gif-link-here.gif" alt="animated lofi background" width="100%"/>
 </p>
 
 <h1 align="center">Olá 👋, eu sou o Emanuel Felipe!</h1>
-<p align="center">Um estudante de engenharia de software apaixonado por tecnologia e aprendizado constante.</p>
+<p align="center">Um estudante de Engenharia de Software com paixão por tecnologia e aprendizado.</p>
 
 ---
 
 ### Sobre mim
 
-- 💻 Atualmente estou estudando **Engenharia de Software**.
-- 🔎 Estou em busca de oportunidades de emprego; meu sonho é trabalhar como desenvolvedor de software.
-- 🌱 Dedicado aos estudos de front-end e back-end, e aprendendo alemão.
-- ⚡ Apaixonado por leitura, incluindo livros, mangás e quadrinhos. Também adoro filmes e jogos, valorizando como hobbies podem enriquecer minha perspectiva e criatividade.
+- 💻 Atualmente estudando **Engenharia de Software**.
+- 🔎 Buscando oportunidades de emprego; meu sonho é ser desenvolvedor de software.
+- 🌱 Focado no aprendizado de front-end, back-end e no idioma alemão.
+- ⚡ Gosto de ler (livros, mangás, quadrinhos), assistir filmes e jogar, vendo hobbies como fontes de inspiração e criatividade.
 
 ---
 
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
-  <ul>
-    <li>💬 Tenho 21 anos e atualmente moro no Brasil.</li>
-    <li>💡 Acredito que nossos interesses pessoais são ferramentas essenciais para encontrar soluções criativas.</li>
-  </ul>
+  <p>Tenho 21 anos e moro no Brasil. Dedico-me a estudar tecnologia e a desenvolver novas habilidades, sempre buscando evoluir e me superar.</p>
 </details>
 
 ---
 
-### Vamos jogar?
+### Contribuições animadas
 
-![Snake animation](https://github.com/your-username/your-repo-name/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/your-username/your-repo-name/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
-### Redes Sociais
+### Minhas Redes Sociais
 
-<p>
+<p align="center">
   <a href="https://www.instagram.com/emanuel.adventure/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
