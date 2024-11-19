@@ -3,7 +3,7 @@
  Olá👋, eu sou o Emanuel Felipe!  Um estudante de engenharia de software
 
 - 💻 Atualmente estou estudando engenharia de software
-- 🔎 estou em busca da minha primeira oportunidade de emprego. My dream is to one day work como desenvolvedor software
+- 🔎 estou em busca de oportunidade de emprego. My dream is to one day work como desenvolvedor software
 </p>
 
 <!-- Dropdown -->
