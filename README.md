@@ -50,12 +50,6 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EmanuelLobo/EmanuelLobo/output/snake.svg" alt="Snake animation" />
-</p>
-
 <p align="center">
   <img src="https://profile-counter.glitch.me/EmanuelLobo/count.svg?" />
 </p>
