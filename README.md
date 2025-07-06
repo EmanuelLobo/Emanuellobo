@@ -50,6 +50,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/EmanuelLobo/count.svg?" />
-</p>
